@@ -13,7 +13,7 @@ Follow this guide to [get started with a blank SD card](https://www.raspberrypi.
 ### Updating an existing installation
 You can follow this guide to [update an existing SD card](https://www.raspberrypi.org/learning/software-guide/update-sd-card/) to the newest build.
 
-After updating your SD card to the latest build, you should also install the Chromium mods which will enable the Flash player software. Then reboot your pi to allow the changes to take effect.
+After updating your SD card to the latest build, you should also install the Chromium mods which will enable the Flash player software. Then reboot your pi to allow the changes to take effect. Open a terminal and type in the following commands:
 
 ```
 sudo apt-get install -y rpi-chromium-mods
@@ -24,16 +24,14 @@ sudo reboot
 1. Open the Chromium Web Browser from the Internet menu
 	![Opening Chromium](images/open-chromium.png)
 
-2. Click on a link to the Scratch page you wish to visit or type in the address. 
-
-For the purposes of this resource we will use the [Code Club Rock Band project](https://www.codeclubprojects.org/en-GB/scratch/) as an example.
+2. Type in the address of the Scratch page you wish to visit. For the purposes of this resource we will use the [Code Club Rock Band project](https://www.codeclubprojects.org/en-GB/scratch/) as an example.
 
 ## Running the Flash plug-in
 
 When you load up the page and scroll down to the example project, you will see a grey square appear where the project should be. This is because the Flash plug-in needs your permission to run.
 
 1. Right click on the grey square and select "Run this plug-in"
-	![Running the plug-in](images/run-this-plug-in.png)
+	![Running the plug-in](images/run-this-plugin.png)
 
 2. The plug in should start and you should see the Scratch project displayed
 	![Scratch works](images/scratch-works.png)
