@@ -13,7 +13,7 @@ Follow this guide to [get started with a blank SD card](https://www.raspberrypi.
 ### Updating an existing installation
 You can follow this guide to [upgrade an existing SD card](https://www.raspberrypi.org/learning/software-guide/update-sd-card/) .  
 
-If you are updating an old SD card, after updating the distribution you should also install the Chromium mods which will enable the Flash player software, followed by a reboot.
+After updating the distribution you should also install the Chromium mods which will enable the Flash player software. Then reboot your pi to allow the changes to take effect.
 
 ```
 sudo apt-get install -y rpi-chromium-mods
@@ -24,14 +24,13 @@ sudo reboot
 1. Open the Chromium Web Browser from the Internet menu
 	![Opening Chromium](images/open-chromium.png)
 
-2. Type in the address or click on a link to the Scratch page you wish to visit. For example you may wish to begin [a blank Scratch project](http://jumpto.cc/scratch-new) or you might be working on one of the [Code Club Scratch projects](https://www.codeclubprojects.org/en-GB/scratch/).
+2. Click on a link to the Scratch page you wish to visit or type in the address. 
 
 For the purposes of this resource we will use the [Code Club Rock Band project](https://www.codeclubprojects.org/en-GB/scratch/) as an example.
 
 ## Running the Flash Plugin
 
 When you load up the page and scroll down to the example project, you will see a grey square appear where the project should be. This is because the Flash plugin needs your permission to run.
-	![Flash plugin does not work](images/grey-window.png)
 
 1. Right click on the grey square and select "Run this plug-in"
 	![Running the plugin](images/run-this-plugin.png)
@@ -41,8 +40,10 @@ When you load up the page and scroll down to the example project, you will see a
 
 ## Looking inside a project
 
-If you visit the project page of a Scratch project and try to click on the "See inside" button, **nothing will happen**. For example this is the [Rock Band project page](https://scratch.mit.edu/projects/26741186/).
-	![Scratch project](images/scratch-project.png)
+If you visit the project page of a Scratch project and try to click on the "See inside" button, **nothing will happen**. 
+
+![Scratch project](images/scratch-project.png)
+For example this is the [Rock Band project page](https://scratch.mit.edu/projects/26741186/).
 
 1. When visiting a Scratch project page directly you need to allow the Flash plugin to run first
 2. Then when the plugin is running, you can click on the "See inside" button.
