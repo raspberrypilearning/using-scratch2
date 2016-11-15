@@ -40,9 +40,9 @@ When you load up the page and scroll down to the example project, you will see a
 
 If you visit the project page of an existing Scratch project on `http://scratch.mit.edu` and immediately try to click on the "See inside" button, **nothing will happen**. 
 
-For example this is the [Rock Band project page](https://scratch.mit.edu/projects/26741186/).
+For example this is the [Rock Band project page](https://scratch.mit.edu/projects/26741186/)
 
-	![Scratch project](images/scratch-project.png)
+![Scratch project](images/scratch-project.png)
 
 Follow these steps to be able to see the code for the project
 
