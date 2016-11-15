@@ -1,51 +1,24 @@
-# Resource Name
+# Using Scratch 2.0 on Raspberry Pi
 
-Short description of the resource
+In this resource you will find out how to use Scratch 2.0 on Raspberry Pi
 
-## The First Step
+https://www.raspberrypi.org/blog/introducing-pixel/
+https://www.raspberrypi.org/learning/software-guide/update-sd-card/
 
-First we'll do X.
+Type about:plugins into the address bar at the top of a Chromium browser window.
+Click Details at the upper-right corner of the page.
+Find the Flash or Shockwave Flash listing on the Plug-ins page and click the corresponding Enable button.
+Close all Chromium windows and restart the browser.
+https://helpx.adobe.com/flash-player/kb/flash-player-chromium.html
 
-1. First do A
+## Updating your software
 
-1. Then do B
+Scratch 2.0 requires software to allow Flash content to run. You will need the latest version of NOOBS to be able to use this software. Follow this guide to [get started with a blank SD card](https://www.raspberrypi.org/learning/software-guide/quickstart/) or learn how to [upgrade an existing SD card](https://www.raspberrypi.org/learning/software-guide/update-sd-card/). 
 
-1. Now do C in code:
+If you are updating an old SD card, after updating the distribution you should also install the Chromium mods which will enable the Flash player software, followed by a reboot.
 
-    ```python
-    print("Hello world")
-    ```
+```
+sudo apt-get install -y rpi-chromium-mods
+sudo reboot
+```
 
-    In Python the `print` function is something
-
-1. Now do D:
-
-    ![](images/gpio-setup.png)
-
-    Wire up the button to pin 17 and ground
-
-1. Now do X
-
-Now we have X
-
-## The Next Step
-
-Now we've done X, we'll do Y.
-
-1. First do A
-
-1. Then do B
-
-1. Now do C in code:
-
-    ```python
-    print("Hello world")
-    ```
-
-    In Python the `print` function is something
-
-1. Now do D
-
-1. Now do Y
-
-Now we have X and Y
