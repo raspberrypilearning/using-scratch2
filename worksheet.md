@@ -73,4 +73,4 @@ If you encounter this lag, running the script or clicking the sound block for a 
 * [Simulate gravity](https://www.raspberrypi.org/learning/gravity-simulator/) with Scratch
 * ...or why not [code your own Rock Band](https://www.codeclubprojects.org/en-GB/scratch/rock-band/)?
 * Perhaps you might [make a space animation](https://www.codeclubprojects.org/en-GB/scratch/lost-in-space/) 
-* You could find out about starting a [Code Club](https://www.codeclub.org.uk/) at your school for more fun with Scratch
+* ...or you could find out about starting a [Code Club](https://www.codeclub.org.uk/) at your school for more fun with Scratch
