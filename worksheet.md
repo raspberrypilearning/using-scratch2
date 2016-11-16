@@ -67,3 +67,10 @@ If you want to allow Flash plug-ins to always run automatically, you can follow 
 When using a sound block in a Scratch project for the first time, you may find there is a sound lag. If the sound is longer than a second then you may not hear the first second of the sound. For sounds shorter than 1 second, the sound may not play at all the first time the block is used. 
 
 If you encounter this lag, running the script or clicking the sound block for a second time should result in the sound playing correctly.
+
+
+## What next?
+* [Simulate gravity](https://www.raspberrypi.org/learning/gravity-simulator/) with Scratch
+* ...or why not [code your own Rock Band](https://www.codeclubprojects.org/en-GB/scratch/rock-band/)?
+* Perhaps you might [make a space animation](https://www.codeclubprojects.org/en-GB/scratch/lost-in-space/) 
+* You could find out about starting a [Code Club](https://www.codeclub.org.uk/) at your school for more fun with Scratch
