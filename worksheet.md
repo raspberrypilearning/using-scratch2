@@ -56,7 +56,7 @@ Follow these steps to be able to see the code for the project
 
 If you want to allow Flash plug-ins to always run automatically, you can follow these instructions:
 
-1. In a a Chromium browser window, type about:plugins into the address bar, then press enter
+1. In a a Chromium browser window, type `about:plugins` into the address bar, then press enter
 2. Find Adobe Flash Player and tick the box "Always allowed to run"
 	![About plug-ins](images/about-plugins.png)
 3. Close all Chromium windows and then reopen Chromium.
