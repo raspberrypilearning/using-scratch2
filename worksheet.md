@@ -21,7 +21,8 @@ sudo reboot
 ```
 
 ## Opening Scratch
-1. Open the Chromium web browser from the Internet menu
+1. Open the Chromium web browser from the Internet menu.
+
 	![Opening Chromium](images/open-chromium.png)
 
 2. Type in the address of the Scratch page you wish to visit. For the purposes of this resource, we will use the Code Club [Rock Band project](https://www.codeclubprojects.org/en-GB/scratch/) as an example.
@@ -31,9 +32,11 @@ sudo reboot
 When you load up the page and scroll down to the example project, you will see a grey square appear where the project should be. This is because the Flash plug-in needs your permission to run.
 
 1. Right click on the grey square and select "Run this plug-in".
+
 	![Running the plug-in](images/run-this-plugin.png)
 
 2. The plug in should start and the Scratch project should be displayed.
+
 	![Scratch works](images/scratch-works.png)
 
 ## Looking inside a project
@@ -48,6 +51,7 @@ Follow these steps to be able to see the code for the project:
 
 1. Right click on the grey box and select "Allow this plug-in to run".
 2. Then click on the "See inside" button.
+
 	![Enable plug-in first](images/enable-plugin-first.png)
 
 ## Allowing Flash to run automatically
@@ -58,7 +62,9 @@ If you want to allow Flash plug-ins to always run automatically, you can follow 
 
 1. In a Chromium browser window, type `about:plugins` into the address bar, then press enter.
 2. Find Adobe Flash Player and tick the box "Always allowed to run".
+
 	![About plug-ins](images/about-plugins.png)
+	
 3. Close all Chromium windows and then reopen Chromium.
 
 
