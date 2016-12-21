@@ -4,16 +4,16 @@ In this resource you will find out how to use Scratch 2.0 on Raspberry Pi.
 
 ## Updating your software
 
-You will need an up to date version of NOOBS to be able to use Scratch 2.0 because it requires a browser software plug-in from the latest release to allow Flash content to run.
+You will need an up-to-date version of NOOBS to be able to use Scratch 2.0. This is because Scratch 2.0 requires a browser software plug-in from the latest release of NOOBS to allow Flash content to run.
 
 ### Using a blank SD card
 
-Follow this guide to [get started with a blank SD card](https://www.raspberrypi.org/learning/software-guide/quickstart/) .
+Follow this guide to [get started with a blank SD card](https://www.raspberrypi.org/learning/software-guide/quickstart/).
 
 ### Updating an existing installation
 You can follow this guide to [update an existing SD card](https://www.raspberrypi.org/learning/software-guide/update-sd-card/) to the newest build.
 
-After updating your SD card to the latest build, you should also install the Chromium mods which will enable the Flash player software. Then reboot your pi to allow the changes to take effect. Open a terminal and type in the following commands:
+After updating your SD card to the latest build, you should also install the Chromium mods which will enable the Flash player software. Then reboot your Raspberry Pi to allow the changes to take effect. Open a terminal window and type in the following commands:
 
 ```
 sudo apt-get install -y rpi-chromium-mods
@@ -21,7 +21,7 @@ sudo reboot
 ```
 
 ## Opening Scratch
-1. Open the Chromium Web Browser from the Internet menu
+1. Open the Chromium web browser from the Internet menu
 	![Opening Chromium](images/open-chromium.png)
 
 2. Type in the address of the Scratch page you wish to visit. For the purposes of this resource we will use the [Code Club Rock Band project](https://www.codeclubprojects.org/en-GB/scratch/) as an example.
