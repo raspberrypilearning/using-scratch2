@@ -1,12 +1,15 @@
-## Running the Flash plug-in
+## Looking inside a project
 
-When you load up the page and scroll down to the example project, you will see a grey square appear where the project should be. This is because the Flash plug-in needs your permission to run.
+If you visit the project page of an existing Scratch project on `http://scratch.mit.edu` and immediately try to click on the "See inside" button, **nothing will happen**. 
 
-- Right click on the grey square and select "Run this plug-in".
+For example, this is the [Rock Band project page](https://scratch.mit.edu/projects/26741186/).
 
-	![Running the plug-in](images/run-this-plugin.png)
+![Scratch project](images/scratch-project.png)
 
-2. The plug in should start and the Scratch project should be displayed.
+Follow these steps to be able to see the code for the project:
 
-	![Scratch works](images/scratch-works.png)
+- Right click on the grey box and select "Allow this plug-in to run".
+2. Then click on the "See inside" button.
+
+	![Enable plug-in first](images/enable-plugin-first.png)
 

@@ -1,15 +1,14 @@
-## Looking inside a project
+## Allowing Flash to run automatically
 
-If you visit the project page of an existing Scratch project on `http://scratch.mit.edu` and immediately try to click on the "See inside" button, **nothing will happen**. 
+**CAUTION**: This setting is not enabled by default for security reasons because it will allow **all** Flash content to run automatically, not just Scratch projects. 
 
-For example, this is the [Rock Band project page](https://scratch.mit.edu/projects/26741186/).
+If you want to allow Flash plug-ins to always run automatically, you can follow these instructions:
 
-![Scratch project](images/scratch-project.png)
+- In a Chromium browser window, type `about:plugins` into the address bar, then press enter.
+2. Find Adobe Flash Player and tick the box "Always allowed to run".
 
-Follow these steps to be able to see the code for the project:
+	![About plug-ins](images/about-plugins.png)
+	
+3. Close all Chromium windows and then reopen Chromium.
 
-- Right click on the grey box and select "Allow this plug-in to run".
-2. Then click on the "See inside" button.
-
-	![Enable plug-in first](images/enable-plugin-first.png)
 

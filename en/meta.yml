@@ -1,4 +1,3 @@
----
 title: Using Scratch 2.0 on the Raspberry Pi
 hero_image: images/banner.png
 description: Using Scratch 2 in Chromium on the Raspberry Pi
@@ -15,7 +14,6 @@ site_areas: ''
 steps:
 - title: Introduction
 - title: What you will need
-- title: Using Scratch 2.0 on Raspberry Pi
 - title: Updating your software
 - title: Opening Scratch
 - title: Running the Flash plug-in

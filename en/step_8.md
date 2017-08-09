@@ -1,14 +1,7 @@
-## Allowing Flash to run automatically
+## Sounds in Scratch 2.0 on Raspberry Pi
 
-**CAUTION**: This setting is not enabled by default for security reasons because it will allow **all** Flash content to run automatically, not just Scratch projects. 
+When using a sound block in a Scratch project for the first time, you may find there is a sound lag. If the sound is longer than a second then you may not hear the first second of the sound. For sounds shorter than one second, the sound may not play at all the first time the block is used. 
 
-If you want to allow Flash plug-ins to always run automatically, you can follow these instructions:
-
-- In a Chromium browser window, type `about:plugins` into the address bar, then press enter.
-2. Find Adobe Flash Player and tick the box "Always allowed to run".
-
-	![About plug-ins](images/about-plugins.png)
-	
-3. Close all Chromium windows and then reopen Chromium.
+If you encounter this lag, running the script or clicking the sound block for a second time should result in the sound playing correctly.
 
 

@@ -1,7 +1,12 @@
-## Opening Scratch
-- Open the Chromium web browser from the Internet menu.
+## Running the Flash plug-in
 
-	![Opening Chromium](images/open-chromium.png)
+When you load up the page and scroll down to the example project, you will see a grey square appear where the project should be. This is because the Flash plug-in needs your permission to run.
 
-2. Type in the address of the Scratch page you wish to visit. For the purposes of this resource, we will use the Code Club [Rock Band project](https://www.codeclubprojects.org/en-GB/scratch/) as an example.
+- Right click on the grey square and select "Run this plug-in".
+
+	![Running the plug-in](images/run-this-plugin.png)
+
+2. The plug in should start and the Scratch project should be displayed.
+
+	![Scratch works](images/scratch-works.png)
 
